@@ -77,3 +77,7 @@ C:\BaiTapLonWWW\QuanLyDoAn_Nhom11\QuanLyDoAn\bin\roslyn\System.Net.Http.dll
 C:\BaiTapLonWWW\QuanLyDoAn_Nhom11\QuanLyDoAn\bin\roslyn\System.Net.Sockets.dll
 C:\BaiTapLonWWW\QuanLyDoAn_Nhom11\QuanLyDoAn\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
 C:\BaiTapLonWWW\QuanLyDoAn_Nhom11\QuanLyDoAn\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\BaiTapLonWWW\QuanLyDoAn_Nhom11\QuanLyDoAn\bin\EntityFramework.dll
+C:\BaiTapLonWWW\QuanLyDoAn_Nhom11\QuanLyDoAn\bin\EntityFramework.SqlServer.dll
+C:\BaiTapLonWWW\QuanLyDoAn_Nhom11\QuanLyDoAn\bin\EntityFramework.xml
+C:\BaiTapLonWWW\QuanLyDoAn_Nhom11\QuanLyDoAn\bin\EntityFramework.SqlServer.xml
