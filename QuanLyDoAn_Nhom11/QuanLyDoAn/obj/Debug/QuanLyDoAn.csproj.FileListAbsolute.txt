@@ -64,7 +64,6 @@ C:\BaiTapLonWWW\QuanLyDoAn_Nhom11\QuanLyDoAn\bin\System.Web.WebPages.Razor.xml
 C:\BaiTapLonWWW\QuanLyDoAn_Nhom11\QuanLyDoAn\bin\Newtonsoft.Json.xml
 C:\BaiTapLonWWW\QuanLyDoAn_Nhom11\QuanLyDoAn\bin\Antlr3.Runtime.pdb
 C:\BaiTapLonWWW\QuanLyDoAn_Nhom11\QuanLyDoAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\BaiTapLonWWW\QuanLyDoAn_Nhom11\QuanLyDoAn\obj\Debug\QuanLyDoAn.csprojAssemblyReference.cache
 C:\BaiTapLonWWW\QuanLyDoAn_Nhom11\QuanLyDoAn\obj\Debug\QuanLyDoAn.csproj.CoreCompileInputs.cache
 C:\BaiTapLonWWW\QuanLyDoAn_Nhom11\QuanLyDoAn\obj\Debug\QuanLyDoAn.csproj.CopyComplete
 C:\BaiTapLonWWW\QuanLyDoAn_Nhom11\QuanLyDoAn\obj\Debug\QuanLyDoAn.dll
